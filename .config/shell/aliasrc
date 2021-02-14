@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Neovim IS VIM (if present)
+[ -x "$(command -v nvim)" ] && alias vim="nvim" 
+
+# General
+ls="ls -Alh --color=auto --group-directories-first"
+tmux="tmux -f ~/.config/tmux/.tmux.conf"

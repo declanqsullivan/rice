@@ -1,0 +1,14 @@
+# For XDG-Open default apps for filetype, ultimately determined by the 
+# "~/.local/share/applications/" directory
+
+[Default Applications]
+
+text/x-shellscript=text.desktop;
+text/plain=text.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+image/png=img.desktop;
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+x-scheme-handler/lbry=lbry.desktop
+inode/directory=file.desktop

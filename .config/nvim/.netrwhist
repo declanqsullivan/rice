@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/usr/src/mkchromecast/man'
+let g:netrw_dirhist_8='/home/decla/.config/nvim'
+let g:netrw_dirhist_7='/home/decla/.config'
+let g:netrw_dirhist_6='/home/decla'
+let g:netrw_dirhist_5='/home/decla/.vim'
+let g:netrw_dirhist_4='/home/decla/.vim/plugged'
+let g:netrw_dirhist_3='/home/decla/.vim'
+let g:netrw_dirhist_2='/home/decla/.vim/undodir'
+let g:netrw_dirhist_1='/home/decla/.vim'
+let g:netrw_dirhist_0='/home/decla/Documents/University/Semester6_git/CSSE2010/notes'
