@@ -2,4 +2,3 @@
 
 setxkbmap -option caps:swapescape &
 xcompmgr
-
